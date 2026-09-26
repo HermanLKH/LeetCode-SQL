@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/HermanLKH/LeetCode-SQL/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/HermanLKH/LeetCode-SQL/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/HermanLKH/LeetCode-SQL/tree/master/1934-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/HermanLKH/LeetCode-SQL/tree/master/0219-contains-duplicate-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/HermanLKH/LeetCode-SQL/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/HermanLKH/LeetCode-SQL/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
